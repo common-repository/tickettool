@@ -1,0 +1,32 @@
+#tickettool_info img{
+	float:left;
+	margin: 7px 17px 7px 0;
+	-moz-box-shadow: 3px 3px 3px silver;
+	-webkit-box-shadow: 3px 3px 3px silver;
+	box-shadow: 3px 3px 3px silver;
+	border-radius: 3px;
+	-moz-border-radius: 3px;	
+}
+#tickettool_info p{
+	padding: 10px;
+}
+#tickettool_button{
+	background: red;
+	border:1px solid white;
+	padding: 5px;
+	color:white;
+	-moz-box-shadow: 3px 3px 3px silver;
+	-webkit-box-shadow: 3px 3px 3px silver;
+	box-shadow: 3px 3px 3px silver;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	float: right;
+}
+#tickettool_map{
+	margin: 10px;
+	-moz-box-shadow: 3px 3px 3px silver;
+	-webkit-box-shadow: 3px 3px 3px silver;
+	box-shadow: 3px 3px 3px silver;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+}
